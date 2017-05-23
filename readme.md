@@ -98,6 +98,10 @@ After the Car Object, create a Vendor Object Constructor that have the following
     3. Else
       1. `console.log("Please provide a valid customerID");`
 
+
+
+
+
 - The `returnCar` function takes a `customerID`
   1. Get customer using the function `getCustomer`
   2. if customer is found
@@ -106,5 +110,11 @@ After the Car Object, create a Vendor Object Constructor that have the following
     3. `console.log( "Thank you for using our service");`
   3. else
     1. `console.log("Please provide a valid customerID");`
+
+
+
+
+
+
 
 - The `totalRevenue` function takes no arguments. Use the array.reduce to sum up the revenues for each car.
